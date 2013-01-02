@@ -1,0 +1,15 @@
+Source: turtlebot-doc-groovy
+Section: science
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5),cdbs
+Standards-Version: 3.9.3
+
+Package: turtlebot-doc-groovy
+Architecture: any
+Provides: turtlebot-doc
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}
+Description: TurtleBot Documentation
+ This package provides a basic quickstart guide and a list of links to online resources.
