@@ -1,29 +1,4 @@
-turtlebot-doc-groovy (0.0.5) precise; urgency=low
-
-  * Added quickstart guide
-
- -- I Heart Engineering <code@iheartengineering.com>  Thu, 17 Jan 2013 23:58:54 -0500
-
-turtlebot-doc-groovy (0.0.4) precise; urgency=low
-
-  * Updates
-
- -- I Heart Engineering <code@iheartengineering.com>  Wed, 15 Aug 2012 08:47:33 -0400
-
-turtlebot-doc-groovy (0.0.3) precise; urgency=low
-
-  * Lintian fixes
-
- -- I Heart Engineering <code@iheartengineering.com>  Sun, 22 Jul 2012 03:08:40 -0400
-
-turtlebot-doc-groovy (0.0.2) precise; urgency=low
-
-  * Build-Depends for cdbs and fixed rules to ignore .git files
-  * Minor HTML formatting change, changed link name, placed link on destop of all users.
-
- -- I Heart Engineering <code@iheartengineering.com>  Sat, 21 Jul 2012 21:21:03 -0400
-
-turtlebot-doc-groovy (0.0.1) UNRELEASED; urgency=low
+turtlebot-doc-Indigo (0.0.1) UNRELEASED; urgency=low
 
   * Adding quick start guide
 
