@@ -1,11 +1,11 @@
-Source: turtlebot-doc-groovy
+Source: turtlebot-doc-indigo
 Section: science
 Priority: optional
-Maintainer: I Heart Engineering <code@iheartengineering.com>
+Maintainer: NE Automation <code@neautomation.com>
 Build-Depends: debhelper (>= 5),cdbs
-Standards-Version: 3.9.3
+Standards-Version: 3.9.5
 
-Package: turtlebot-doc-groovy
+Package: turtlebot-doc-indigo
 Architecture: any
 Provides: turtlebot-doc
 Conflicts: 
