@@ -1,5 +1,5 @@
-turtlebot-doc-Indigo (0.0.1) UNRELEASED; urgency=low
+turtlebot-doc (0.1.0) unstable; urgency=low
 
-  * Adding quick start guide
+  * Migrating turtlebot-doc-indigo into the Future!
 
- -- I Heart Engineering <code@iheartengineering.com>  Sat, 21 Jul 2012 15:22:14 -0400
+ -- Human x Robot <code@hxr.io>  Thu, 17 Oct 2019 16:45:47 -0400

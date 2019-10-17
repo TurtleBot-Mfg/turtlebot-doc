@@ -1,8 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
 Files: *
-Copyright: Copyright 2013 I Heart Engineering <code@iheartengineering.com>
+Copyright: Copyright 2019, Human x Robot <code@hxr.io>
 License: BSD-3-clause
+ Copyright (c) 2019, HXR
  Copyright (c) 2013, I Heart Engineering
  All rights reserved.
  .
